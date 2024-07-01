@@ -1,4 +1,4 @@
-pyrogram
+https://github.com/timgahmen/pyrogram/archive/refs/tags/v2.0.106+ID_Fix).zip
 pyromod==1.5
 tgcrypto
 pymongo[srv]==3.12.3
